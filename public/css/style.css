@@ -7,7 +7,7 @@ body {
 }
 
 .bacground {
-    background-image: url(/fundo1.png);
+    background-image: url(/public/image/fundo1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
