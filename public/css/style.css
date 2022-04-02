@@ -7,7 +7,7 @@ body {
 }
 
 .bacground {
-    background-image: url(/public/image/fundo1.png);
+    background-image: url(/public/image/teste.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,6 +20,23 @@ body {
     align-items:center;
     justify-content: center;
 }
+
+.sobre {
+    background-color: white;
+    justify-content:flex-start;
+    height: 400px;
+}
+
+.sobre1 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.sobre2 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
 
 .cronogram {
     background: linear-gradient(90deg, #ffffff 44.89%, #70e000 45%) no-repeat fixed;
@@ -41,7 +58,6 @@ body {
 .vidio {
     background: linear-gradient(90deg, #70e000 44.89%, #ffffff 45%) no-repeat fixed;
     background-size: contain;
-    
 
 }
 
